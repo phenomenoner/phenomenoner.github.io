@@ -11,5 +11,6 @@ theme:
     - navigation.path
     - navigation.prune
     - navigation.top
+  language: zh-TW
 plugins:
   - blog
