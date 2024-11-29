@@ -2,5 +2,14 @@ site_name: My Docs
 site_url: https://phenomenoner.github.io/
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.prune
+    - navigation.top
 plugins:
   - blog
