@@ -1,1 +1,6 @@
 site_name: My Docs
+site_url: https://phenomenoner.github.io/
+theme:
+  name: material
+plugins:
+  - blog
