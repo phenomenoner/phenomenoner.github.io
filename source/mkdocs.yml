@@ -12,5 +12,6 @@ theme:
     - navigation.prune
     - navigation.top
   language: zh-TW
+  font:
+    text: Noto Sans Traditional Chinese
 plugins:
-  - blog
